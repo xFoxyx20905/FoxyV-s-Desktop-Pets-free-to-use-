@@ -1,0 +1,44 @@
+----- Desktop Pet Update Log -----
+Version 1:
+- Added Cat Pet.
+- Added left/right walking function.
+
+Version 2:
+- fixed a bug where the Pet would stop working after a short time.
+
+Version 3:
+- fixed a bug where the Pet would not appear correctly when the task bar is set to disappear.
+Version 3.1:
+- temporary bug fix where the Pet would disappear behind the task bar.
+
+Verion 4:
+- added a option menu that lets users choose on which screen the Pet will be.
+- added up/down walking functionality for the Pet
+- added option menu to decide if the Pet should walk 1D(at the bottom left/right) or 2D(anywhere on the screen up/down/left/right)
+
+Version 5:
+- rework on the Selection menu
+    - Monitor and dimension selection are now on the same window
+- redesign of the Selection menu
+- fixed a bug where the code would stop working when touching a border
+- changed the window property to be non-resizable
+
+Version 6:
+- changed the name of Dimensions to Modes:
+    - 1D -> Task bar
+    - 2D -> Free-roam
+- Pets can now be dragged.
+    - in task bar mode it will fall back to the task bar.
+- the selcetion Boxes for monitor have been reordered.
+- added Pet selection to the Selection Menu.
+- the Pet now moves a little bit faster.
+- the Pet will be placed over the task bar again when set to Task bar mode.
+    - when task bar is set to dissapear it will appear on the bottom of the screen.
+- added new animations:
+    - eating (with transitions)
+    - playing (with transitions)
+    - falling (Task bar mode only)
+- added new Pets:
+    - Dog
+    - Fox
+    - Turtle

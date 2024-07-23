@@ -1,0 +1,9 @@
+{
+    "selected_pet": "cat",
+    "pet_folder": {
+        "cat": "/cat_gifs/",
+        "dog": "/dog_gifs/",
+        "fox": "/fox_gifs/",
+        "turtle": "/turtle_gifs/"
+    }
+}
